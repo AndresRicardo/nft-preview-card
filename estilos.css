@@ -88,6 +88,10 @@ footer{
 .avatar{
     width: 10%;
     display: inline-block;
+    border-color: white;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 2px;
 }
 
 strong{
